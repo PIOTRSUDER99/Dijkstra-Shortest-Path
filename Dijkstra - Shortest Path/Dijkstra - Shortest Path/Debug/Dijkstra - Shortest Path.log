@@ -1,0 +1,14 @@
+﻿  Disjoint_Sets.cpp
+  Graph.cpp
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(27): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(40): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(46): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(64): warning C4018: '<=': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\desktop\uf past courses\uf courses fall 2019\project2algo\project2algo\graph.cpp(251): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Dijkstra - Shortest Path.vcxproj -> C:\Users\DELL\Desktop\Dijkstra - Shortest Path\Debug\Dijkstra - Shortest Path.exe
